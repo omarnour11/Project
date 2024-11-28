@@ -313,7 +313,7 @@ void SaveDataToFileText()
         {
             cout << "Account Name     : ";
 
-            cin.ignore(1,'\n');
+           // cin.ignore(1,'\n');
             getline(cin,NewAccount->_Name);
             cout << "Account Address  : ";
 
