@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1732826752 source:e:\users\omar nour2005\documents\omar\projectmangementsystem\main.cpp
+	<iostream>
+	"clsHolderAccount.h"
+	"clsBankMangementSystem.h"
+	"clsBranches.h"
+
+1732815434 e:\users\omar nour2005\documents\omar\projectmangementsystem\clsholderaccount.h
+	<iostream>
+
+1732832656 e:\users\omar nour2005\documents\omar\projectmangementsystem\clsbankmangementsystem.h
+	<iostream>
+	"clsHolderAccount.h"
+	<fstream>
+	<string>
+	"clsBranches.h"
+
+1732831769 e:\users\omar nour2005\documents\omar\projectmangementsystem\clsbranches.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"clsBankMangementSystem.h"
+
